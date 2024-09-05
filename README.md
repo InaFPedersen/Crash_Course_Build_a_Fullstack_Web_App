@@ -12,3 +12,7 @@ A quick, fun, and hands-on introduction to web development. Build a complete app
 
 ## Original
 The original course can be found [HERE](https://www.udemy.com/course/full-stack-crash-course/) on Udemy
+
+## Resources
+
+- [Tailwind colors](https://tailwindcss.com/docs/customizing-colors)
