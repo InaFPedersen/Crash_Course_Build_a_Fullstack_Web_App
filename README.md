@@ -20,4 +20,8 @@ The original course can be found [HERE](https://www.udemy.com/course/full-stack-
 
 - [Tailwind colors](https://tailwindcss.com/docs/customizing-colors)
 
-#
+###
+
+To fix supabase you have to add the secrets directly in supabase.js
+
+TODO at a later time you can fix the reading of env file
